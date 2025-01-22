@@ -1,2 +1,1 @@
-# ase
-AffiniSearch
+# Affiliate Search Engine
